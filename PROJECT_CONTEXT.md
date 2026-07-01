@@ -1,4 +1,4 @@
-# PROJECT_CONTEXT
+# PROJECT CONTEXT
 
 This document serves as the master technical reference for the **Smart Timetable Generator** project. It is designed to quickly onboard other developers or AI assistants to the architecture, design patterns, and state of the system.
 
