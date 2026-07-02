@@ -16,14 +16,40 @@ A sophisticated, constraint-based academic scheduling system designed to fully a
 <details>
 <summary>Click to view Screenshots</summary>
 
+### Login
+![Dashboard](./screenshots/login.png)
+
 ### Dashboard & Navigation
 ![Dashboard](./screenshots/dashboard.png)
 
+### Semester Management
+![Semesters](./screenshots/semester.png)
+![Add Semesters](./screenshots/semesteradd.png)
+
+### Users Management
+![Users](./screenshots/users.png)
+![Add Users](./screenshots/useradd.png)
+
 ### Room Management
 ![Rooms](./screenshots/rooms.png)
+![Add Rooms](./screenshots/roomsadd.png)
+
+### Sections Management
+![Sections](./screenshots/sections.png)
+![Add Sections](./screenshots/sectionadd.png)
+
+### Course Management
+![Courses](./screenshots/courses.png)
+![Add Courses](./screenshots/courseadd.png)
 
 ### Course Assignment
-![Assignments](./screenshots/assignments.png)
+![Assignments](./screenshots/courseassignment.png)
+![Add Assignments](./screenshots/courseassignmentadd.png)
+
+### Faculty/TA Unavailability
+![Faculty Unavailability](./screenshots/facultyunavailability.png)
+![TA Unavailability](./screenshots/taunavailability.png)
+![Add Unavailability](./screenshots/facultyunavailabilityadd.png)
 
 ### Automatic Timetable Generation
 ![Timetable](./screenshots/timetable.png)
