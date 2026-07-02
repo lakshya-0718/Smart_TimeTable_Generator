@@ -1,6 +1,6 @@
 # Smart Timetable Generator
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?logo=fastapi)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.2-blue?logo=typescript)
