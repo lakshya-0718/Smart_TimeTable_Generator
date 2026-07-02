@@ -34,22 +34,22 @@ A sophisticated, constraint-based academic scheduling system designed to fully a
 
 ## Features
 
-- ** Authentication**: Secure Admin Login.
-- ** Semester Management**: Create, activate, and safely delete inactive academic terms.
-- ** User Management**: Manage Faculty and Teaching Assistants with safe deletion and active/inactive toggles.
-- ** Room Management**: Manage Lecture halls and Laboratories along with their seating capacities.
-- ** Section Management**: Organize student cohorts (e.g., Year 1, Year 2).
-- ** Course Management (Tier-based)**:
+- **Authentication**: Secure Admin Login.
+- **Semester Management**: Create, activate, and safely delete inactive academic terms.
+- **User Management**: Manage Faculty and Teaching Assistants with safe deletion and active/inactive toggles.
+- **Room Management**: Manage Lecture halls and Laboratories along with their seating capacities.
+- **Section Management**: Organize student cohorts (e.g., Year 1, Year 2).
+- **Course Management (Tier-based)**:
   - **Tier 1**: 3 Lectures + 1 Tutorial + 1 Practical
   - **Tier 2**: 3 Lectures + 1 Tutorial
   - **Tier 3**: 4 Hour Laboratory
   - **Tier 4**: 2 Hour Laboratory
-- ** Course Assignments**: Map Courses to Sections, Faculty, and TAs.
-- ** Availability Tracking**: Manage specific unavailable time slots for both Faculty and TAs.
-- ** Automatic Timetable Generation**: Constraint-based engine generates conflict-free schedules.
-- ** Dynamic Timetable Views**: View generated schedules by Section, Faculty/TA, or Room.
-- ** CSV Export**: One-click export for tailored schedules.
-- ** Conflict Reporting**: Visual feedback on scheduling bottlenecks.
+- **Course Assignments**: Map Courses to Sections, Faculty, and TAs.
+- **Availability Tracking**: Manage specific unavailable time slots for both Faculty and TAs.
+- **Automatic Timetable Generation**: Constraint-based engine generates conflict-free schedules.
+- **Dynamic Timetable Views**: View generated schedules by Section, Faculty/TA, or Room.
+- **CSV Export**: One-click export for tailored schedules.
+- **Conflict Reporting**: Visual feedback on scheduling bottlenecks.
 
 ---
 
