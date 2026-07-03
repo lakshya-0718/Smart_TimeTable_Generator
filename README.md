@@ -9,9 +9,9 @@ A sophisticated, constraint-based academic scheduling system designed to fully a
 
 ---
 
-## Demo & Screenshots
+## Video & Screenshots
 
-*(Add a GIF here showing the automatic timetable generation process)*
+![Recording](./recording.mp4)
 
 <details>
 <summary>Click to view Screenshots</summary>
