@@ -11,7 +11,7 @@ A sophisticated, constraint-based academic scheduling system designed to fully a
 
 ## Demo & Screenshots
 
-![Watch the Demo Video](https://drive.google.com/file/d/1WBsYNzaaPixbSFxdLIFJIUYpXHyuKCpc/view?usp=sharing)
+[Watch the Demo Video](https://drive.google.com/file/d/1WBsYNzaaPixbSFxdLIFJIUYpXHyuKCpc/view?usp=sharing)
 
 <details>
 <summary>Click to view Screenshots</summary>
