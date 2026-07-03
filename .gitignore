@@ -1,0 +1,72 @@
+# ----------------------------
+# Node / Frontend
+# ----------------------------
+node_modules/
+dist/
+build/
+out/
+.next/
+.pnp
+.pnp.js
+*.tsbuildinfo
+
+# ----------------------------
+# Python / FastAPI
+# ----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyc
+.Python
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+.pytest_cache/
+.coverage
+coverage/
+htmlcov/
+
+# ----------------------------
+# Environment Variables
+# ----------------------------
+.env
+.env.*
+!.env.example
+
+# ----------------------------
+# Database
+# ----------------------------
+*.db
+*.sqlite
+*.sqlite3
+
+# ----------------------------
+# IDEs
+# ----------------------------
+.vscode/
+!.vscode/extensions.json
+.idea/
+
+# ----------------------------
+# Logs
+# ----------------------------
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ----------------------------
+# OS Files
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Misc
+# ----------------------------
+*.swp
+*.swo
