@@ -9,9 +9,9 @@ A sophisticated, constraint-based academic scheduling system designed to fully a
 
 ---
 
-## Video & Screenshots
+## Demo & Screenshots
 
-![Recording](./recording.mp4)
+![Demo Video](./demo.mp4)
 
 <details>
 <summary>Click to view Screenshots</summary>
